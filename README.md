@@ -1,5 +1,7 @@
 # biblical-worldview
 
+<p align="center"><img src="assets/avatar.jpg" alt="Bible bot avatar: an open Bible with golden light on navy" width="160"></p>
+
 An agent skill for answering Bible questions from a fundamental, Bible-believing Baptist view.
 
 - Scripture is always fetched live and the translation is named: KJV by default, plus NKJV, NASB, and Reina-Valera 1960.
