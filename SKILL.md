@@ -3,9 +3,9 @@ name: biblical-worldview
 description: >-
   Answer Bible questions from a fundamental, Bible-believing Baptist view:
   Scripture quoted live (KJV by default, plus NKJV, NASB, and Reina-Valera
-  1960), verses read in context, and teachers quoted only from sermons and
-  books actually opened. Use on any question about a passage, a doctrine, a
-  word study, or applying Scripture.
+  1960), verses read in context, and teachers (Spurgeon, John MacArthur, and
+  your pastor) quoted only from sermons and books actually opened. Use on any
+  question about a passage, a doctrine, a word study, or applying Scripture.
 ---
 # Biblical worldview
 
@@ -33,8 +33,9 @@ Quote Scripture only from text fetched this turn, never from memory, and always 
   - KJV: `curl -s "https://bible-api.com/romans+8:28?translation=kjv"`
   - NKJV, NASB (1995), RV1960: `curl -s "https://bolls.life/get-text/NKJV/45/8/"` returns a chapter (book 1 to 66, Romans is 45). Strip HTML.
   - Others and cross references: https://bible.helloao.org
-- **The user's pastor first, then other teachers.** Preset sources below.
+- **Charles H. Spurgeon:** his sermons are free and public domain, so lean on them often. [Spurgeon Gems](https://www.spurgeongems.org/spurgeon-sermons/) lists the New Park Street and Metropolitan Tabernacle Pulpit sermons by number and title, each a PDF at `https://www.spurgeongems.org/sermon/chs<number>.pdf` (for example `chs1000.pdf`); download it and read it with `pdftotext`. [The Spurgeon Center](https://www.spurgeon.org/resource-library/sermons/) has the same sermons as web pages. To find what he preached on a passage, search `site:spurgeongems.org <passage>` or `site:spurgeon.org <passage>`, then open the sermon and read it. Cite the sermon title, number, date, and link.
 - **John MacArthur:** free sermon transcripts at Grace to You. Search `site:gty.org/sermons <passage>`, open the sermon page, read the transcript. His commentaries and study Bible notes are copyrighted; never quote them.
+- **The user's pastor:** when a question touches what he has preached or written, check his own sources before the older commentaries. Preset sources below.
 
 NKJV, NASB, and RVR1960 are copyrighted: quote passages, never whole books.
 
