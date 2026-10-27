@@ -4,6 +4,7 @@ An agent skill for answering Bible questions from a fundamental, Bible-believing
 
 - Scripture is always fetched live and the translation is named: KJV by default, plus NKJV, NASB, and Reina-Valera 1960.
 - Verses are read in context, with exposition over proof-texting.
+- Explanations are observations only (what the text, its context, cross references, and each source say), with no summaries or conclusions unless asked, and every explanation ends with a full References list: exact page links, book sections, sermon numbers and dates, and video timestamps.
 - Teachers (Charles Spurgeon, John MacArthur, and your pastor) are quoted only from sermons and books actually opened, with title and link.
 - Sources: the free [TheologAI](https://mcp.theologai.xyz/mcp) MCP server, no-key Bible APIs ([bible-api.com](https://bible-api.com), [bolls.life](https://bolls.life), [bible.helloao.org](https://bible.helloao.org)), Spurgeon's public-domain sermons from [Spurgeon Gems](https://www.spurgeongems.org/spurgeon-sermons/) and [The Spurgeon Center](https://www.spurgeon.org/resource-library/sermons/), and [Grace to You](https://www.gty.org) sermon transcripts.
 - Ships with a Classical Baptist preset (Calvary Road Baptist Church, Dr. John S. Waldrip's [sermon library](https://johnwaldriplibrary.com) and [Classical Baptist Press](https://www.classicalbaptist.press)). Swap in your own church and pastor.
